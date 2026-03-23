@@ -49,6 +49,6 @@ This is a classic Snake game where the player navigates the snake to eat food it
 - GitHub:(https://github.com/Durgashree33)  
 - Email: durgashreepoojary@gmail.com 
 
----
+----
 
 ⭐ Enjoy the game and challenge yourself to beat your high score!
